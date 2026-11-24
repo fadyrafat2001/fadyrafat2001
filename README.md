@@ -1,6 +1,6 @@
 # Data Analyst
 
-I work in data analysis, with a focus on connecting financial questions to clear, useful reporting.
+I work in data analysis, with a focus on connecting financial questions to clear, useful reporting. Highly proficient in Microsoft Office and AI tools.
 
 ## Toolkit
 - Power BI
