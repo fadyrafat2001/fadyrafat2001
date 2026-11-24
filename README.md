@@ -1,6 +1,6 @@
-# Cost Accountant | Data Analyst
+# Data Analyst
 
-I work in cost accounting and data analysis, with a focus on connecting financial questions to clear, useful reporting.
+I analyze financial questions and turn them into clear, useful reporting.
 
 ## Toolkit
 - Power BI
